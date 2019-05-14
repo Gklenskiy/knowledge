@@ -6,6 +6,6 @@
 
 ## group 2
 
-* [Untitledtest](group-2/untitledtest/README.md)
-  * [Untitledwerwer](group-2/untitledtest/untitledwerwer.md)
+* [Group 2 Page 1](group-2/untitledtest/README.md)
+  * [Group 2 Page 1.1](group-2/untitledtest/untitledwerwer.md)
 
