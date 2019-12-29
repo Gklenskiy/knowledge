@@ -5,6 +5,7 @@
 ## Work
 
 * [Tech Skills](work/untitled.md)
+  * [Алгоритмы и Структуры Данных](work/untitled/algoritmy-i-struktury-dannykh.md)
   * [ООП](work/untitled/oop.md)
   * [Обеспечение качества](work/untitled/obespechenie-kachestva/README.md)
     * [Тестирование](work/untitled/obespechenie-kachestva/testirovanie.md)
