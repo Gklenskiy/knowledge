@@ -15,6 +15,8 @@
 ## Work
 
 * [Tech Skills](work/untitled.md)
+  * [Обеспечение качества](work/untitled/obespechenie-kachestva/README.md)
+    * [Code Review](work/untitled/obespechenie-kachestva/code-review.md)
   * [.Net Framework / .Net Core](work/untitled/.net-framework-.net-core.md)
   * [C\#](work/untitled/c/README.md)
     * [Expression Trees](work/untitled/c/expression-trees.md)
