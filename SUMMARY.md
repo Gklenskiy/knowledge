@@ -19,6 +19,7 @@
     * [Code Review](work/untitled/obespechenie-kachestva/code-review.md)
   * [.Net Framework / .Net Core](work/untitled/.net-framework-.net-core.md)
   * [C\#](work/untitled/c/README.md)
+    * [Многопоточность и Асинхронность](work/untitled/c/mnogopotochnost-i-asinkhronnost.md)
     * [Expression Trees](work/untitled/c/expression-trees.md)
     * [Рефлексия](work/untitled/c/refleksiya.md)
     * [Диагностика](work/untitled/c/diagnostika.md)
