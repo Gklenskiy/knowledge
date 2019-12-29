@@ -1,5 +1,7 @@
 # Многопоточность и Асинхронность
 
+### Темы:
+
 * Понимание терминов Процесс, Поток, Пулл потоков, Мертвая блокировка
 * Понимание концепций Многопоточного программирования, Асинхронного программирования и Параллелизма
 * Класс Thread: Start, Join, Abort, Sleep \| Фоновые и активные потоки
@@ -13,11 +15,32 @@
 * Task Scheduling
 * Неизменяемые коллекции: ImmutableList, ImmutableDictionary, ImmutableHashSet
 
-**Источники**
+### Контрольные вопросы:
+
+* Что такое Виртуальное адресное пространство?
+* Почему большое количество параллельных потоков могут ухудшить производительность приложения?
+* В чем разница между Потоком и Процессом?
+* Когда возникает Мертвая блокировка?
+* В чем разница между Thread.Sleep и Task.Delay?
+* В чем разница между Lock и Monitor?
+* В чем разница между Thread и Task?
+* Почему неизменяемые типы являются потокобезопасными?
+* В чем разница между Многопоточным и Асинхронным программированием?
+* Когда нужно думать о синхронизации потоков?
+* В чем разница между механизмами синхронизации Mutex и Semaphore?
+* Почему примитивные операции инкремента или присваивания нужно синхронизировать классом Interlocked?
+* Что такое ReaderWriterLockSlim?
+* Как создать потокобезопасный Синглтон?
+* Является ли класс Lazy&lt;T&gt; потокобезопасным?
+
+### **Источники:**
 
 * C\# in a Nutshell \([http://www.albahari.com/nutshell/bookcontents.aspx](http://www.albahari.com/nutshell/bookcontents.aspx)\)
 * CLR via C\# by Jeffrey Richter
 * Основы многопоточности в .NET Framework \([https://habr.com/ru/company/nix/blog/260745/](https://habr.com/ru/company/nix/blog/260745/)\)
 * Введение в PLINQ \([https://docs.microsoft.com/ru-ru/dotnet/standard/parallel-programming/introduction-to-plinq](https://docs.microsoft.com/ru-ru/dotnet/standard/parallel-programming/introduction-to-plinq)\)
 * Concurrency in C\# Cookbook \([https://www.amazon.com/Concurrency-Cookbook-Asynchronous-Multithreaded-Programming/dp/1449367569](https://www.amazon.com/Concurrency-Cookbook-Asynchronous-Multithreaded-Programming/dp/1449367569)\)
+* [https://ru.stackoverflow.com/questions/445768/%d0%9c%d0%bd%d0%be%d0%b3%d0%be%d0%bf%d0%be%d1%82%d0%be%d1%87%d0%bd%d0%be%d0%b5-vs-%d0%b0%d1%81%d0%b8%d0%bd%d1%85%d1%80%d0%be%d0%bd%d0%bd%d0%be%d0%b5-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5](https://ru.stackoverflow.com/questions/445768/%d0%9c%d0%bd%d0%be%d0%b3%d0%be%d0%bf%d0%be%d1%82%d0%be%d1%87%d0%bd%d0%be%d0%b5-vs-%d0%b0%d1%81%d0%b8%d0%bd%d1%85%d1%80%d0%be%d0%bd%d0%bd%d0%be%d0%b5-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5)
+
+
 
