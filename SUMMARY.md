@@ -5,6 +5,9 @@
 ## Work
 
 * [Tech Skills](work/untitled.md)
+  * [Шаблоны проектирования](work/untitled/shablony-proektirovaniya.md)
+  * [Dependecy Injection](work/untitled/dependecy-injection.md)
+  * [SOLID](work/untitled/solid.md)
   * [Алгоритмы и Структуры Данных](work/untitled/algoritmy-i-struktury-dannykh.md)
   * [ООП](work/untitled/oop.md)
   * [Обеспечение качества](work/untitled/obespechenie-kachestva/README.md)
