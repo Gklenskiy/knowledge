@@ -2,19 +2,9 @@
 
 * [README](README.md)
 
-## group 2
-
-* [Group 2 Page 1](group-2/untitledtest/README.md)
-  * [Group 2 Page 1.1](group-2/untitledtest/untitledwerwer.md)
-
-## Personal
-
-* [Рецепты](personal/recepty/README.md)
-  * [Творожная запеканка](personal/recepty/tvorozhnaya-zapekanka.md)
-
 ## Work
 
-* [Tech Skills](work/untitled.md)
+* [Tech Skills](work/untitled/README.md)
   * [Обеспечение качества](work/untitled/obespechenie-kachestva/README.md)
     * [Тестирование](work/untitled/obespechenie-kachestva/testirovanie.md)
     * [Code Review](work/untitled/obespechenie-kachestva/code-review.md)
