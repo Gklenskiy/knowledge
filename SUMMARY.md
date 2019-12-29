@@ -5,6 +5,7 @@
 ## Work
 
 * [Tech Skills](work/untitled.md)
+  * [Domain-driven design, DDD](work/untitled/domain-driven-design-ddd.md)
   * [Шаблоны проектирования](work/untitled/shablony-proektirovaniya.md)
   * [Dependecy Injection](work/untitled/dependecy-injection.md)
   * [SOLID](work/untitled/solid.md)
