@@ -14,7 +14,8 @@
 
 ## Work
 
-* [Tech Skills](work/untitled/README.md)
+* [Tech Skills](work/untitled.md)
   * [C\#](work/untitled/c/README.md)
+    * [Диагностика](work/untitled/c/diagnostika.md)
     * [Базовые знания по языку](work/untitled/c/bazovye-znaniya-po-yazyku.md)
 

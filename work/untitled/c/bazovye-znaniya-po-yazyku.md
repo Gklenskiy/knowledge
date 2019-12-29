@@ -10,7 +10,7 @@
 * Структуры DateTime/TimeSpan/DateTimeOffset \| Класс Random \| Структура Guid \| Интерфейсы IComparable, IEquatable, IComparer
 * Коллекции ArrayList, List, Dictionary, Hashtable, HashSet, LinkedList, Stack, Queue, Класс Array \| Интерфейсы IEnumerable и IEnumerator, Утиная типизация \(duck typing\), Цикл foreach \| Интерфейсы ICollection, IList, IReadOnlyList
 
-## Источники
+### Источники
 
 * C\# in a Nutshell \([http://www.albahari.com/nutshell/bookcontents.aspx](http://www.albahari.com/nutshell/bookcontents.aspx)\)
 
