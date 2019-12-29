@@ -4,7 +4,8 @@
 
 ## Work
 
-* [Tech Skills](work/untitled/README.md)
+* [Tech Skills](work/untitled.md)
+  * [ООП](work/untitled/oop.md)
   * [Обеспечение качества](work/untitled/obespechenie-kachestva/README.md)
     * [Тестирование](work/untitled/obespechenie-kachestva/testirovanie.md)
     * [Code Review](work/untitled/obespechenie-kachestva/code-review.md)
