@@ -16,6 +16,8 @@
 
 * [Tech Skills](work/untitled.md)
   * [C\#](work/untitled/c/README.md)
+    * [Expression Trees](work/untitled/c/expression-trees.md)
+    * [Рефлексия](work/untitled/c/refleksiya.md)
     * [Диагностика](work/untitled/c/diagnostika.md)
     * [Базовые знания по языку](work/untitled/c/bazovye-znaniya-po-yazyku.md)
 
