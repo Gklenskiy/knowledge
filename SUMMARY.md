@@ -14,7 +14,7 @@
 
 ## Work
 
-* [Tech Skills](work/untitled.md)
+* [Tech Skills](work/untitled/README.md)
   * [.Net Framework / .Net Core](work/untitled/.net-framework-.net-core.md)
   * [C\#](work/untitled/c/README.md)
     * [Expression Trees](work/untitled/c/expression-trees.md)
