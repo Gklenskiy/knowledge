@@ -8,8 +8,8 @@
 
 ### Источники:
 
-* [Inversion Of Control](http://demiazz.github.io/about-ioc/)
-* [IoC, DI, IoC-контейнер](https://habr.com/ru/post/131993/)
+* Inversion Of Control [http://demiazz.github.io/about-ioc/](http://demiazz.github.io/about-ioc/)
+* IoC, DI, IoC-контейнер [https://habr.com/ru/post/131993/](https://habr.com/ru/post/131993/)
 
 
 

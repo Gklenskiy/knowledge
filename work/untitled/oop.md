@@ -18,8 +18,6 @@
 
 Источники:
 
-* Книга [Object-Oriented Analysis and Design with Applications](https://www.amazon.com/Object-Oriented-Analysis-Design-Applications-3rd/dp/020189551X)
-* [Наследование vs Композиция vs Агрегация](http://sergeyteplyakov.blogspot.com/2012/12/vs-vs.html)
-
-
+* Object-Oriented Analysis and Design with Applications \([https://www.amazon.com/Object-Oriented-Analysis-Design-Applications-3rd/dp/020189551X](https://www.amazon.com/Object-Oriented-Analysis-Design-Applications-3rd/dp/020189551X)\)
+* Наследование vs Композиция vs Агрегация [http://sergeyteplyakov.blogspot.com/2012/12/vs-vs.html](http://sergeyteplyakov.blogspot.com/2012/12/vs-vs.html)
 
