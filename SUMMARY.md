@@ -4,7 +4,7 @@
 
 ## Work
 
-* [Tech Skills](work/untitled.md)
+* [Tech Skills](work/untitled/README.md)
   * [Domain-driven design, DDD](work/untitled/domain-driven-design-ddd.md)
   * [Шаблоны проектирования](work/untitled/shablony-proektirovaniya.md)
   * [Dependecy Injection](work/untitled/dependecy-injection.md)
