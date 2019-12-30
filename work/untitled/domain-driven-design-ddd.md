@@ -23,21 +23,10 @@
 
 ### Источники:
 
-#### Книги:
-
-* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/gp/product/0321125215/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
-* [Implementing Domain-Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
-
-#### Проекты:
-
+* Domain-Driven Design: Tackling Complexity in the Heart of Software [https://www.amazon.com/gp/product/0321125215/ref=dbs\_a\_def\_rwt\_hsch\_vapi\_taft\_p1\_i0](https://www.amazon.com/gp/product/0321125215/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
+* Domain-driven design: рецепт для прагматика [https://habr.com/ru/company/jugru/blog/440772/](https://habr.com/ru/company/jugru/blog/440772/)
+* Anemic Model vs Rich Model [https://thevaluable.dev/anemic-domain-model/](https://thevaluable.dev/anemic-domain-model/)
+* Wrapping your business logic with anti-corruption layers – NET Core [https://www.thereformedprogrammer.net/wrapping-your-business-logic-with-anti-corruption-layers-net-core/](https://www.thereformedprogrammer.net/wrapping-your-business-logic-with-anti-corruption-layers-net-core/)
 * [https://github.com/ardalis/ddd-guestbook](https://github.com/ardalis/ddd-guestbook)
 * [https://github.com/EduardoPires/EquinoxProject](https://github.com/EduardoPires/EquinoxProject)
-
-#### Статьи:
-
-* [Domain-driven design: рецепт для прагматика](https://habr.com/ru/company/jugru/blog/440772/)
-* [Anemic Model vs Rich Model](https://thevaluable.dev/anemic-domain-mode)
-* [Wrapping your business logic with anti-corruption layers – NET Core ](https://www.thereformedprogrammer.net/wrapping-your-business-logic-with-anti-corruption-layers-net-core/)
-* [Domain Driven Design на практике](https://habr.com/ru/post/334126/)
-* [Как мы попробовали DDD, CQRS и Event Sourcing и какие выводы сделали](https://habr.com/ru/post/313110/)
 

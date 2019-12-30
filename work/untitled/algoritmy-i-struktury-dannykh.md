@@ -28,20 +28,11 @@
 
 ### Источники:
 
-#### Книги:
-
+* [https://habr.com/ru/post/444594/](https://habr.com/ru/post/444594/)
+* Курсы на Stepik Алгоритмы: теория и практика. Методы [https://stepik.org/course/217](https://stepik.org/course/217)
+* Описание алгоритмов сортировки и сравнение их производительности [https://habr.com/ru/post/335920/](https://habr.com/ru/post/335920/)
 * The Algorithm Design Manual [https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
-
-#### Курсы:
-
-* Алгоритмы: теория и практика. Методы [https://stepik.org/course/217](https://stepik.org/course/217)
-
-#### Статьи:
-
-* [Big O](https://habr.com/ru/post/444594/)
-* [Описание алгоритмов сортировки и сравнение их производительности](https://habr.com/ru/post/335920/)
-* [Важнейшие структуры данных, которые вам следует знать к своему собеседованию по программированию](https://habr.com/ru/company/alconost/blog/419685/)
-* [Know Thy Complexities!](https://www.bigocheatsheet.com/)
-* [Алгоритмы на графах](https://habr.com/ru/post/65367/)
-* [Префиксное дерево](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D1%84%D0%B8%D0%BA%D1%81%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE)
+* Важнейшие структуры данных, которые вам следует знать к своему собеседованию по программированию [https://habr.com/ru/company/alconost/blog/419685/](https://habr.com/ru/company/alconost/blog/419685/)
+* Know Thy Complexities! [https://www.bigocheatsheet.com/](https://www.bigocheatsheet.com/)
+* Алгоритмы на графах [https://habr.com/ru/post/65367/](https://habr.com/ru/post/65367/)
 
