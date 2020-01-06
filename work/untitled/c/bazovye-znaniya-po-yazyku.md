@@ -1,5 +1,7 @@
 # Базовые знания по языку
 
+### Темы:
+
 * Примитивные конструкции языка C\#: Типы данных, Переменные, Методы, Операторы, Символы, Строки, Массивы, Циклы, Условия, Комментарии, Пространства имен, Перегрузка операторов
 * Ссылочные и значимые типы данных: Stack vs Heap, Классы и структуры, Класс Object, Модификаторы доступа: public/private/protected/internal/protected internal ; Интерфейсы и Абстрактные классы ; Перечисления ; Операторы const и readonly ; Упаковка и Распаковка
 * Обобщения для классов, методов, интерфейсов, структур и делегатов \| Ограничения
@@ -10,9 +12,24 @@
 * Структуры DateTime/TimeSpan/DateTimeOffset \| Класс Random \| Структура Guid \| Интерфейсы IComparable, IEquatable, IComparer
 * Коллекции ArrayList, List, Dictionary, Hashtable, HashSet, LinkedList, Stack, Queue, Класс Array \| Интерфейсы IEnumerable и IEnumerator, Утиная типизация \(duck typing\), Цикл foreach \| Интерфейсы ICollection, IList, IReadOnlyList
 
+### Контрольные вопросы:
+
+* В чем разница между ссылочными и значимыми типами данных?
+* В чем разница между делегатами и событиями?
+* В чем разница между операторами const и readonly?
+* Может ли структура реализовывать интерфейс
+* Что такое Duck typing? В чем отличия интерфейсов IEnumerable и IEnumerator?
+* В чем заключается необходимость неизменяемости строк? \(или какие преимущества неизменяемых типов над изменяемыми?\)
+* Почему StringBuilder значительно опережает string по производительности при большом количестве конкатенаций?
+* Когда вызывается статический конструктор экземплярного класса?
+* В чем разница между коллекциями: Dictionary vs Hashtable, Hashtable vs HashSet, Dictionary vs Lookup?
+* Для чего механизм сборки мусора использует поколения?
+* Существует ли связь между механизмом рефлексии и метаданными сборки?
+* Как реализовать механизм Замыкания \(Clojure\) в C\#?
+
 ### Источники
 
-* C\# in a Nutshell \([http://www.albahari.com/nutshell/bookcontents.aspx](http://www.albahari.com/nutshell/bookcontents.aspx)\)
+* [C\# in a Nutshell](http://www.albahari.com/nutshell/bookcontents.aspx)
 
 
 
