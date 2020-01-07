@@ -26,4 +26,5 @@
 * [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
 * [Branching стратегии в Git](https://bool.dev/blog/detail/git-branching-strategies)
 * [Pull request merge strategies](https://confluence.atlassian.com/bitbucketserver/pull-request-merge-strategies-844499235.html)
+* [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
 
