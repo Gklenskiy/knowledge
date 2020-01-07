@@ -17,6 +17,7 @@
 * Интеграционные тесты
 * Шаблоны модульного тестирования
 * Разработка через тестирование \(Test-driven development, TDD\)
+* Data-driven Tests
 
 ### Контрольные вопросы:
 
@@ -24,29 +25,25 @@
 * В чем разница между Модульными и Интеграционными тестами?
 * Что такое AAA шаблон?
 * Чем Stub отличается от Mock?
+* C какими Code Smells в модульных тестах Вы сталкивались?
 * Как измерить процент покрытия кода модульными тестами?
 * Почему тяжело тестировать код, использующий шаблон Синглтон?
 * Какие шаблоны модульного тестирования Вам знакомы?
 * Нужно ли тестировать приватные методы класса?
 * Опишите процесс разработки через тестирование?
+* Что такое Data-driven тесты?
 
 ### Источники:
 
-#### Книги:
-
-* [xUnit Test Patterns: Refactoring Test Code](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054)
-* [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
-* [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
-* [The Art of Unit Testing: with examples in C\#](https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890)
-
-#### Статьи:
-
-* [White/Black/Grey Box-тестирование](https://qalight.com.ua/baza-znaniy/white-black-grey-box-testirovanie/)
-* [Test Case, Test Suite, Test Run, what’s the difference?](https://www.testmonitor.com/blog/test-case-test-suite-test-run-whats-the-difference)
-* [Пять принципов чистых тестов](http://sergeyteplyakov.blogspot.com/2010/06/first-principles.html)
-* [Пирамида тестов на практике](https://habr.com/ru/post/358950/)
-* [Стили юнит-тестирования](https://enterprisecraftsmanship.com/posts/styles-of-unit-testing/)
-* [Integration tests in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-3.1)
-
-
+* The Art of Unit Testing: with examples in C\# \([https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890](https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890)\)
+*   [White/Black/Grey Box-тестирование](https://qalight.com.ua/baza-znaniy/white-black-grey-box-testirovanie/)
+* [https://www.testmonitor.com/blog/test-case-test-suite-test-run-whats-the-difference](https://www.testmonitor.com/blog/test-case-test-suite-test-run-whats-the-difference)
+* [http://sergeyteplyakov.blogspot.com/2010/06/first-principles.html](http://sergeyteplyakov.blogspot.com/2010/06/first-principles.html)
+* Пирамида тестов на практике [https://habr.com/ru/post/358950/](https://habr.com/ru/post/358950/)
+* Стили юнит-тестирования [https://enterprisecraftsmanship.com/posts/styles-of-unit-testing/](https://enterprisecraftsmanship.com/posts/styles-of-unit-testing/)
+* [https://github.com/AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture)
+* [https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-3.1](https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-3.1)
+* xUnit Test Patterns: Refactoring Test Code [https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/013149**5054**](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054)\*\*\*\*
+* Working Effectively with Legacy Code [https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
+* Test Driven Development: By Example  [https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 

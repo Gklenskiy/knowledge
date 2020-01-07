@@ -16,8 +16,8 @@
 
 ### Источники:
 
-* [Принципы SOLID, о которых должен знать каждый разработчик ](https://medium.com/webbdev/solid-4ffc018077da)
-* [10 принципов объектно-ориентированного программирования, о которых должен знать каждый разработчик](https://habr.com/ru/company/skillbox/blog/454314/)
+* Принципы SOLID, о которых должен знать каждый разработчик [https://medium.com/webbdev/solid-4ffc018077da](https://medium.com/webbdev/solid-4ffc018077da)
+* 10 принципов объектно-ориентированного программирования, о которых должен знать каждый разработчик [https://habr.com/ru/company/skillbox/blog/454314/](https://habr.com/ru/company/skillbox/blog/454314/)
 
 
 
