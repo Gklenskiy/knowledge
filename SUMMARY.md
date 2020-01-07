@@ -46,10 +46,13 @@
   * [Web Servers](tech-skills/postroenie-veb-servisov/web-servers.md)
 * [Алгоритмы и Структуры Данных](work/untitled/algoritmy-i-struktury-dannykh.md)
 * [Распределённые системы и Микросервисы](tech-skills/raspredelyonnye-sistemy-i-mikroservisy/README.md)
+  * [Шаблоны проектирования](tech-skills/raspredelyonnye-sistemy-i-mikroservisy/shablony-proektirovaniya.md)
+  * [Семантики доставки](tech-skills/raspredelyonnye-sistemy-i-mikroservisy/semantiki-dostavki.md)
   * [Message Brokers](tech-skills/raspredelyonnye-sistemy-i-mikroservisy/message-brokers.md)
   * [Message-Bus](tech-skills/raspredelyonnye-sistemy-i-mikroservisy/message-bus.md)
   * [Docker](tech-skills/raspredelyonnye-sistemy-i-mikroservisy/docker.md)
   * [Kubernetes](tech-skills/raspredelyonnye-sistemy-i-mikroservisy/kubernetes.md)
+  * [Консенсус в распределенных системах](tech-skills/raspredelyonnye-sistemy-i-mikroservisy/konsensus-v-raspredelennykh-sistemakh.md)
 * [Автоматизация цикла разработки](tech-skills/avtomatizaciya-cikla-razrabotki.md)
 * [Полезные ссылки](tech-skills/poleznye-ssylki.md)
 
