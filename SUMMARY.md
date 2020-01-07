@@ -19,6 +19,7 @@
   * [Тестирование](tech-skills/obespechenie-kachestva/testirovanie.md)
   * [Рефакторинг](tech-skills/obespechenie-kachestva/refaktoring.md)
   * [Code Review](tech-skills/obespechenie-kachestva/code-review.md)
+  * [Метрики и мониторинг](tech-skills/obespechenie-kachestva/metriki-i-monitoring.md)
   * [Работа с техническим долгом](tech-skills/obespechenie-kachestva/rabota-s-tekhnicheskim-dolgom.md)
 * [Базы Данных](tech-skills/bazy-dannykh/README.md)
   * [T-SQL](tech-skills/bazy-dannykh/t-sql.md)
@@ -45,11 +46,10 @@
 * [Web Servers](tech-skills/web-servers.md)
 * [Good to Know Libraries](tech-skills/good-to-know-libraries.md)
 * [Task Sheduling](tech-skills/task-sheduling.md)
-* [Методологии разработки](tech-skills/metodologii-razrabotki.md)
 * [Алгоритмы и Структуры Данных](tech-skills/algoritmy-i-struktury-dannykh.md)
 * [Полезные ссылки](tech-skills/poleznye-ssylki.md)
 
 ## Personal Skills
 
-* [Untitled](personal-skills/untitled.md)
+* [Методологии разработки](personal-skills/metodologii-razrabotki.md)
 
