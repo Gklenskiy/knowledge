@@ -10,17 +10,16 @@
   * [Expression Trees](tech-skills/c/expression-trees.md)
   * [Рефлексия](tech-skills/c/refleksiya.md)
   * [Диагностика](tech-skills/c/diagnostika.md)
-  * [Базовые знания по языку](tech-skills/c/bazovye-znaniya-po-yazyku.md)
 * [Системы контроля версий](tech-skills/sistemy-kontrolya-versii.md)
 * [.Net Framework / .Net Core](tech-skills/.net-framework-.net-core.md)
 * [Фреймворки доступа к данным](tech-skills/freimvorki-dostupa-k-dannym/README.md)
   * [Dapper](tech-skills/freimvorki-dostupa-k-dannym/dapper.md)
   * [Entity Framework](tech-skills/freimvorki-dostupa-k-dannym/entity-framework.md)
 * [Обеспечение качества](tech-skills/obespechenie-kachestva/README.md)
-  * [Работа с техническим долгом](tech-skills/obespechenie-kachestva/rabota-s-tekhnicheskim-dolgom.md)
-  * [Рефакторинг](tech-skills/obespechenie-kachestva/refaktoring.md)
   * [Тестирование](tech-skills/obespechenie-kachestva/testirovanie.md)
+  * [Рефакторинг](tech-skills/obespechenie-kachestva/refaktoring.md)
   * [Code Review](tech-skills/obespechenie-kachestva/code-review.md)
+  * [Работа с техническим долгом](tech-skills/obespechenie-kachestva/rabota-s-tekhnicheskim-dolgom.md)
 * [Базы Данных](tech-skills/bazy-dannykh/README.md)
   * [T-SQL](tech-skills/bazy-dannykh/t-sql.md)
   * [NoSQL](tech-skills/bazy-dannykh/nosql.md)
@@ -49,4 +48,8 @@
 * [Методологии разработки](tech-skills/metodologii-razrabotki.md)
 * [Алгоритмы и Структуры Данных](tech-skills/algoritmy-i-struktury-dannykh.md)
 * [Полезные ссылки](tech-skills/poleznye-ssylki.md)
+
+## Personal Skills
+
+* [Untitled](personal-skills/untitled.md)
 

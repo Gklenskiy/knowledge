@@ -7,7 +7,7 @@
 * Классы StackTrace и StackFrame
 * Использование CPU и Memory профайлеров
 
-### Источники
+### Источники:
 
 * [C\# in a Nutshell](http://www.albahari.com/nutshell/bookcontents.aspx) Глава 13
 
