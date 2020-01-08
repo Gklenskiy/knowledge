@@ -23,6 +23,8 @@
 #### Книги:
 
 * [Экстремальное программирование, Кент Бек](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+* [Канбан ****Альтернативный путь в Agile](https://www.mann-ivanov-ferber.ru/books/kanban/)
+* [Scrum ****Революционный метод управления проектами](https://www.mann-ivanov-ferber.ru/books/scrum/)
 
 #### Статьи:
 
