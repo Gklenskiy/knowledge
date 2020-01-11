@@ -47,6 +47,8 @@
 * [Введение в PLINQ](https://docs.microsoft.com/ru-ru/dotnet/standard/parallel-programming/introduction-to-plinq)
 * [Многопоточное vs асинхронное программирование](https://ru.stackoverflow.com/questions/445768/%d0%9c%d0%bd%d0%be%d0%b3%d0%be%d0%bf%d0%be%d1%82%d0%be%d1%87%d0%bd%d0%be%d0%b5-vs-%d0%b0%d1%81%d0%b8%d0%bd%d1%85%d1%80%d0%be%d0%bd%d0%bd%d0%be%d0%b5-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5)
 * [.NET: Инструменты для работы с многопоточностью и асинхронностью](https://habr.com/ru/post/452094/)
+* [ConfigureAwait: часто задаваемые вопросы](https://habr.com/ru/post/482354/)
+* [Parallel Computing - It's All About the SynchronizationContext](https://docs.microsoft.com/en-us/archive/msdn-magazine/2011/february/msdn-magazine-parallel-computing-it-s-all-about-the-synchronizationcontext)
 
 
 
