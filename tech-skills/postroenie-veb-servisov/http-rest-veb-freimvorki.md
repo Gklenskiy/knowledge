@@ -42,6 +42,7 @@
 * [API Versioning in Asp.Net Core 2.0](https://koukia.ca/api-versioning-in-asp-net-core-2-0-1b55970aa29d)
 * [Введение в gRPC](https://blog.maddevs.io/introduction-to-grpc-6de0d9c0fe61)
 * [Why gRPC?](https://grpc.io/)
+* [C\# to C\# Communication: REST, gRPC and everything in between](https://michaelscodingspot.com/rest-vs-grpc-for-asp-net/?utm_source=csharpdigest&utm_medium=email&utm_campaign=featured) 
 
   |  |
   | :--- |
