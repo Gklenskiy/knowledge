@@ -1,16 +1,24 @@
 # Inversion of Control
 
-### Темы:
+### Описание:
 
-* Inversion of Control \(IoC\)
-
-### Контрольные вопросы:
+* **Inversion of Control** \(IOC, Инверсия управления\) - подход в программировании, при котором поток управления программы оборачивается относительно традиционного. При традиционном подходе, вызывающий код контролирует время и порядок вызовов библиотечных методов, тогда как при IOC некий фреймворк или структура управляют вызовами пользовательского кода. Примером могут быть Метод обратного вызова или паттерн Наблюдатель. Общие концепции есть в событийной модели программирования, которая часто реализуется с помощью IOC - пользовательский код занимается обработкой событий, в то время, как цикл обработки и отправки событий управляется фреймворком.
+* **Dependency Inversion Principle** \(DIP, Принцип инверсии зависимости, soli**D**\) - принцип, призванный решать проблему организации зависимостей, который состоит из таких постулатов:
+  * Модули верхних уровней не должны зависеть от модулей нижних уровней. И те и другие должны зависеть от абстракций
+  * Абстракции не должны зависеть от деталей. Детали должны зависеть от абстракций
+* **Dependency Injection** \(DI, Внедрение зависимостей\) - механизм передачи классу его зависимостей. Бывает несколько видов DI:
+  * Constructor Injection - через конструктор, для зависимостей необходимых всему классу
+  * Method Injection - через метод, для зависимостей необходимых только методу
+  * Property Injection - через свойство, для необязательных зависимостей
+* **DI-container** - фреймворк реализующий механизм Внедрения зависимостей
 
 ### Источники:
 
-* [Inversion Of Control](http://demiazz.github.io/about-ioc/)
 * [IoC, DI, IoC-контейнер](https://habr.com/ru/post/131993/)
 * [Understanding Dependency Injection in .NET Core](https://auth0.com/blog/dependency-injection-in-dotnet-core/)
+* [DI vs. DIP vs. IoC](http://sergeyteplyakov.blogspot.com/2014/11/di-vs-dip-vs-ioc.html)
+* [The Dependency Inversion Principle](http://sergeyteplyakov.blogspot.com/2014/09/the-dependency-inversion-principle.html)
+* [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html) 
 
 
 
